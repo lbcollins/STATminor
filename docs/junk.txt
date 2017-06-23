@@ -1,0 +1,3351 @@
+backports
+bikeshare14
+bookdown
+broom
+cellranger
+crandatapkgs
+dygraphs
+fivethirtyeight
+forcats
+gapminder
+ggplot2movies
+httr
+knitr
+modelr
+nycflights13
+okcupiddata
+praise
+purrr
+readxl
+rematch
+rmarkdown
+rprojroot
+rvest
+selectr
+Stat2Data
+swirl
+testthat
+tidyverse
+tufte
+webshot
+xts
+zoo
+abind
+acepack
+aplpack
+arm
+assertthat
+babynames
+base
+base64enc
+BH
+bindr
+bindrcpp
+bitops
+boot
+brew
+car
+caTools
+checkmate
+chron
+class
+cluster
+coda
+codetools
+colorspace
+commonmark
+compiler
+crayon
+curl
+data.table
+datasets
+DBI
+desc
+devtools
+dichromat
+digest
+doParallel
+downloader
+dplyr
+evaluate
+fastR
+fields
+foreach
+foreign
+formatR
+Formula
+gap
+gdata
+ggdendro
+ggplot2
+ggvis
+git2r
+glmer2stan
+glue
+graphics
+grDevices
+grid
+gridBase
+gridExtra
+gtable
+gtools
+haven
+highr
+Hmisc
+hms
+htmlTable
+htmltools
+htmlwidgets
+httpuv
+httr
+igraph
+inline
+irlba
+iterators
+jsonlite
+KernSmooth
+knitr
+labeling
+lattice
+latticeExtra
+lazyeval
+LearnBayes
+lme4
+Lock5Data
+Lock5withR
+loo
+lubridate
+magrittr
+manipulate
+maps
+maptools
+markdown
+MASS
+Matrix
+MatrixModels
+matrixStats
+memoise
+methods
+mgcv
+mime
+minqa
+mnormt
+modeest
+mosaic
+mosaicData
+munsell
+mvtnorm
+NHANES
+nlme
+nloptr
+NMF
+nnet
+nycflights13
+openssl
+packrat
+parallel
+pbkrtest
+pkgconfig
+pkgmaker
+PKI
+plogr
+plyr
+proto
+psych
+quantreg
+R6
+RColorBrewer
+Rcpp
+RcppEigen
+RCurl
+readr
+registry
+reshape2
+rethinking
+rjags
+RJSONIO
+rlang
+rmarkdown
+rngtools
+roxygen2
+rpart
+rsconnect
+rstan
+rstudioapi
+rversions
+rworldmap
+scales
+shiny
+sourcetools
+sp
+spam
+SparseM
+spatial
+splines
+StanHeaders
+stats
+stats4
+stringi
+stringr
+survival
+tcltk
+tibble
+tidyr
+tools
+utils
+viridis
+viridisLite
+whisker
+withr
+XML
+xml2
+xtable
+yaml
+/Users/linda/Library/R/3.3/library
+/Users/linda/Library/R/3.3/library
+/Users/linda/Library/R/3.3/library
+/Users/linda/Library/R/3.3/library
+/Users/linda/Library/R/3.3/library
+/Users/linda/Library/R/3.3/library
+/Users/linda/Library/R/3.3/library
+/Users/linda/Library/R/3.3/library
+/Users/linda/Library/R/3.3/library
+/Users/linda/Library/R/3.3/library
+/Users/linda/Library/R/3.3/library
+/Users/linda/Library/R/3.3/library
+/Users/linda/Library/R/3.3/library
+/Users/linda/Library/R/3.3/library
+/Users/linda/Library/R/3.3/library
+/Users/linda/Library/R/3.3/library
+/Users/linda/Library/R/3.3/library
+/Users/linda/Library/R/3.3/library
+/Users/linda/Library/R/3.3/library
+/Users/linda/Library/R/3.3/library
+/Users/linda/Library/R/3.3/library
+/Users/linda/Library/R/3.3/library
+/Users/linda/Library/R/3.3/library
+/Users/linda/Library/R/3.3/library
+/Users/linda/Library/R/3.3/library
+/Users/linda/Library/R/3.3/library
+/Users/linda/Library/R/3.3/library
+/Users/linda/Library/R/3.3/library
+/Users/linda/Library/R/3.3/library
+/Users/linda/Library/R/3.3/library
+/Users/linda/Library/R/3.3/library
+/Users/linda/Library/R/3.3/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+/Library/Frameworks/R.framework/Versions/3.3/Resources/library
+1.1.0
+0.1.0
+0.4
+0.4.2
+1.1.0
+0.1.8
+1.1.1.4
+0.2.0
+0.2.0
+0.2.0
+0.0.1
+1.2.1
+1.16
+0.1.0
+0.2.2
+0.1.0
+1.0.0
+0.2.2.2
+1.0.0
+1.0.1
+1.6
+1.2
+0.3.2
+0.3-1
+1.6
+2.4.3
+1.0.2
+1.1.1
+0.2
+0.4.1
+0.9-7
+1.8-0
+1.4-5
+1.4.1
+1.3.0
+1.9-3
+0.2.0
+0.3.0
+3.3.3
+0.1-3
+1.62.0-1
+0.1
+0.2
+1.0-6
+1.3-19
+1.0-6
+2.1-4
+1.17.1
+1.8.2
+2.3-50
+7.3-14
+2.0.6
+0.19-1
+0.2-15
+1.3-2
+1.2
+3.3.3
+1.3.2
+2.6
+1.10.4
+3.3.3
+0.7
+1.1.0
+1.13.2
+2.0-0
+0.6.12
+1.0.10
+0.4
+0.7.0
+0.10
+0.10.2
+9.0
+1.4.3
+0.8-68
+1.5
+1.2-1
+1.1-17
+2.18.0
+0.1-20
+2.2.1
+0.4.3
+0.18.0
+0.995
+1.1.0
+3.3.3
+3.3.3
+3.3.3
+0.4-7
+2.2.1
+0.2.0
+3.5.0
+1.0.0
+0.6
+4.0-3
+0.3
+1.9
+0.3.6
+0.8
+1.3.3
+1.2.1
+1.0.1
+0.3.14
+2.2.1
+1.0.8
+1.5
+2.23-15
+1.16
+0.3
+0.20-35
+0.6-28
+0.2.0
+2.17
+1.1-13
+2.6
+1.2.2
+1.1.0
+1.6.0
+1.5
+1.0.1
+3.2.0
+0.9-2
+0.8
+7.3-47
+1.2-10
+0.4-1
+0.52.2
+1.1.0
+3.3.3
+1.8-17
+0.5
+1.2.4
+1.5-5
+2.1
+0.14.4
+0.14.0
+0.4.3
+1.0-6
+2.1.0
+3.1-131
+1.0.4
+0.20.6
+7.3-12
+0.2.2
+0.9.6
+0.4.8-1
+3.3.3
+0.4-7
+2.0.1
+0.22
+0.1-3
+0.1-1
+1.8.4
+1.0.0
+1.7.5
+5.33
+2.2.2
+1.1-2
+0.12.11
+0.3.3.3.0
+1.95-4.8
+1.1.1
+0.3
+1.4.2
+1.59
+4-6
+1.3-0
+0.1.1
+1.0.9013
+1.2.4
+6.0.1
+4.1-11
+0.8
+2.15.1
+0.6
+1.0.3
+1.3-6
+0.4.1
+1.0.3
+0.1.6
+1.2-4
+1.4-0
+1.77
+7.3-11
+3.3.3
+2.15.0-1
+3.3.3
+3.3.3
+1.1.5
+1.2.0
+2.41-3
+3.3.3
+1.3.3
+0.6.3
+3.3.3
+3.3.3
+0.4.0
+0.2.0
+0.3-2
+1.0.2
+3.98-1.9
+1.1.1
+1.8-2
+2.1.14
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+base
+NA
+NA
+NA
+NA
+NA
+recommended
+NA
+NA
+NA
+NA
+NA
+recommended
+recommended
+NA
+recommended
+NA
+NA
+base
+NA
+NA
+NA
+base
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+recommended
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+base
+base
+base
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+recommended
+NA
+NA
+recommended
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+recommended
+recommended
+NA
+NA
+NA
+base
+recommended
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+recommended
+NA
+NA
+recommended
+NA
+NA
+NA
+base
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+recommended
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+recommended
+base
+NA
+base
+base
+NA
+NA
+recommended
+base
+NA
+NA
+base
+base
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+R (>= 3.0.0)
+R (>= 2.10)
+NA
+NA
+R (>= 3.0.0)
+NA
+R (>= 3.0)
+R (>= 3.2.4)
+R (>= 2.10)
+R (>= 3.1.0)
+R (>= 2.10.0)
+R (>= 3.0.0)
+R (>= 3.1.0)
+R (>= 3.1.0)
+R (>= 2.10)
+R (>= 2.10)
+NA
+NA
+NA
+NA
+R (>= 3.0)
+R (>= 3.0.0)
+R (>= 3.0.1), xml2
+R (>= 2.15.2)
+R (>= 2.10)
+R (>= 3.1.0)
+R (>= 3.1.0)
+NA
+NA
+R (>= 3.0)
+zoo (>= 1.7-10)
+R (>= 2.10.0), stats
+R (>= 1.5.0)
+NA
+R (>= 2.8.0), tcltk
+R (>= 3.1.0), MASS, Matrix (>= 1.0), stats, lme4 (>= 1.0)
+NA
+R (>= 2.10)
+NA
+R (>= 2.9.0)
+NA
+NA
+NA
+NA
+R (>= 3.0.0), graphics, stats
+NA
+R (>= 3.2.0)
+R (>= 2.2.0)
+R (>= 3.0.0)
+R (>= 2.12.0)
+R (>= 3.0.0), stats, utils
+R (>= 3.0.1)
+R (>= 2.14.0)
+R (>= 2.1)
+R (>= 2.13.0), methods
+NA
+NA
+NA
+R (>= 3.0.0)
+R (>= 3.0.0)
+NA
+R (>= 3.0.0), methods
+R (>= 3.2.0)
+R (>= 3.0.2)
+R (>= 2.10), stats
+R (>= 2.4.1)
+R (>= 2.14.0), foreach(>= 1.2.0), iterators(>= 1.0.0),
+parallel, utils
+NA
+R (>= 3.1.2)
+R (>= 3.0.2)
+R (>= 3.0.0), mosaic
+R (>= 3.0), methods, spam, maps
+R (>= 2.5.0)
+R (>= 3.0.0)
+R (>= 3.0.2)
+R (>= 2.0.0), stats
+R (>= 2.10)
+R (>= 2.3.0)
+NA
+R (>= 3.1)
+R (>= 3.0)
+R (>= 3.0.2), methods
+NA
+R (>= 3.0.0)
+NA
+NA
+NA
+R (>= 2.3.0)
+NA
+R (>= 2.14)
+R (>= 2.10)
+R (>= 3.1.0)
+R (>= 3.0.2)
+lattice, survival (>= 2.40-1), Formula, ggplot2 (>= 2.2)
+NA
+NA
+R (>= 2.14.1)
+NA
+R (>= 2.15.1), methods
+R (>= 3.0.0)
+methods
+R (>= 2.4.0), methods
+Matrix
+R (>= 2.5.0), utils
+methods
+R (>= 2.5.0), stats
+R (>= 3.1.0)
+NA
+R (>= 3.0.0)
+R (>= 2.10.0), lattice, RColorBrewer
+R (>= 3.1.0)
+coda
+R (>= 3.0.2), Matrix (>= 1.1.1), methods, stats
+R (>= 2.10)
+R (>= 2.10)
+R (>= 3.1.2)
+methods, R (>= 3.0.0)
+NA
+R (>= 2.11.1)
+R (>= 2.14.0)
+R (>= 2.10), sp (>= 1.0-11)
+R (>= 2.11.1)
+R (>= 3.1.0), grDevices, graphics, stats, utils
+R (>= 3.0.1)
+R (>= 3.0.1)
+R (>= 2.12.0)
+NA
+NA
+R (>= 2.14.0), nlme (>= 3.1-64)
+NA
+NA
+R (>= 2.2.0)
+R (>= 2.12.0)
+R (>= 3.0.0), dplyr, lattice (>= 0.20-21), ggplot2,
+mosaicData, Matrix
+R (>= 3.0.0)
+NA
+R(>= 1.9.0)
+R (>= 3.0)
+R (>= 3.0.2)
+NA
+R (>= 3.0.0), methods, utils, pkgmaker (>= 0.20), registry,
+rngtools (>= 1.2.3), cluster
+R (>= 2.14.0), stats, utils
+R (>= 2.10)
+NA
+R (>= 3.0.0)
+NA
+R (>= 3.2.3), lme4 (>= 1.1.10)
+NA
+R (>= 3.0.0), stats, registry
+R (>= 2.9.0), base64enc
+NA
+R (>= 3.1.0)
+NA
+R (>= 2.10)
+R (>= 2.6), stats, SparseM
+R (>= 3.0)
+R (>= 2.0.0)
+R (>= 3.0.0)
+R (>= 2.15.1)
+R (>= 3.0.0), methods, bitops
+R (>= 3.0.2)
+R (>= 2.6.0)
+NA
+rstan (>= 2.10.0), parallel, methods, stats, graphics
+R (>= 2.14.0), coda (>= 0.13)
+NA
+R (>= 3.1.0)
+
+R (>= 3.0)
+R (>= 3.0.0), methods, pkgmaker (>= 0.20)
+R (>= 3.0.2)
+R (>= 2.15.0), graphics, stats, grDevices
+R (>= 3.0.0)
+R (>= 3.0.2), ggplot2 (>= 2.0.0), StanHeaders (>= 2.15.0)
+NA
+NA
+R (>= 2.10.0), sp
+R (>= 2.13)
+R (>= 3.0.0), methods
+R (>= 3.0.2)
+R (>= 3.0.0), methods
+R (>= 3.0), grid
+R (>= 2.15), methods
+R (>= 3.0.0), graphics, stats, utils
+NA
+NA
+NA
+NA
+R (>= 2.14)
+R (>= 2.14)
+R (>= 2.13.0)
+NA
+R (>= 3.1.0)
+R (>= 3.1.0)
+NA
+NA
+R (>= 2.10), viridisLite (>= 0.2.0)
+R (>= 2.10)
+NA
+R (>= 3.0.2)
+R (>= 2.13.0), methods, utils
+R (>= 3.1.0)
+R (>= 2.10.0)
+NA
+utils
+NA
+htmltools (>= 0.3.5), knitr (>= 1.16), rmarkdown (>= 0.9.6),
+yaml (>= 2.1.14)
+plyr, dplyr, tidyr, psych, stringr, reshape2, nlme, methods
+rematch, tibble
+utils
+magrittr, htmlwidgets (>= 0.6), htmltools (>= 0.3.5), zoo (>=
+1.7-10), xts (>= 0.9-7)
+NA
+tibble, magrittr
+NA
+NA
+jsonlite, mime, curl (>= 0.9.1), openssl (>= 0.8), R6
+evaluate (>= 0.10), digest, highr, markdown, stringr (>= 0.6),
+yaml, methods, tools
+magrittr, purrr (>= 0.2.2), lazyeval (>= 0.2.0), tibble,
+broom, dplyr, tidyr (>= 0.6.0)
+tibble
+NA
+NA
+magrittr (>= 1.5), Rcpp, lazyeval (>= 0.2.0), tibble
+cellranger, Rcpp (>= 0.11.6), tibble (>= 1.1)
+NA
+tools, utils, knitr (>= 1.14), yaml (>= 2.1.5), htmltools (>=
+0.3.5), caTools, evaluate (>= 0.8), base64enc, jsonlite,
+rprojroot, methods, stringr (>= 1.2.0)
+backports
+httr (>= 0.5), selectr, magrittr
+methods, stringr
+NA
+stringr, testthat (>= 1.0.2), httr (>= 1.1.0), yaml, RCurl,
+digest, tools, methods
+digest, crayon, praise, magrittr, R6, methods
+broom, dplyr, forcats, ggplot2, haven, httr, hms, jsonlite,
+lubridate, magrittr, modelr, purrr, readr, readxl, stringr,
+tibble, rvest, tidyr, xml2
+htmltools, knitr (>= 1.12), rmarkdown
+magrittr, jsonlite
+NA
+utils, graphics, grDevices, lattice (>= 0.20-27)
+methods, utils
+NA
+NA
+abind, coda, graphics, grDevices, methods, nlme, utils
+tools
+tibble
+NA
+NA
+NA
+NA
+Rcpp, bindr
+NA
+NA
+NA
+MASS, mgcv, nnet, pbkrtest (>= 0.4-4), quantreg, grDevices,
+utils, stats, graphics
+bitops
+backports, utils
+graphics, stats
+MASS
+graphics, grDevices, stats, utils
+lattice
+NA
+graphics, grDevices
+NA
+NA
+grDevices, methods, utils
+NA
+methods
+NA
+NA
+assertthat, utils, R6, crayon, rprojroot
+httr (>= 0.4), utils, tools, methods, memoise (>= 1.0.0),
+whisker, digest, rstudioapi (>= 0.2.0), jsonlite, stats, git2r
+(>= 0.11.0), withr
+NA
+NA
+NA
+utils, digest
+assertthat, bindrcpp, glue, magrittr, methods, pkgconfig,
+rlang (>= 0.1), R6, Rcpp (>= 0.12.6), tibble (>= 1.3.1), utils
+methods, stringr (>= 0.6.2)
+lattice, grid, mosaicData
+NA
+codetools, utils, iterators
+methods, utils, stats
+NA
+NA
+NA
+gtools, stats, methods, utils
+MASS, ggplot2(>= 0.9.2)
+digest, grid, gtable (>= 0.1.1), MASS, plyr (>= 1.7.1),
+reshape2, scales (>= 0.4.1), stats, tibble, lazyeval
+assertthat, jsonlite (>= 0.9.11), shiny (>= 0.11.1), magrittr,
+dplyr (>= 0.4.0), lazyeval, htmltools (>= 0.2.4), methods
+graphics, utils
+NA
+methods
+grDevices
+NA
+grDevices, utils
+graphics, grid
+gtable, grid, grDevices, graphics, utils
+grid
+NA
+Rcpp (>= 0.11.4), readr (>= 0.1.0), hms, tibble
+NA
+methods, latticeExtra, cluster, rpart, nnet, acepack, foreign,
+gtable, grid, gridExtra, data.table, htmlTable, viridis,
+htmltools, base64enc
+methods
+stringr, knitr (>= 1.6), magrittr (>= 1.5), methods,
+checkmate, htmlwidgets
+utils, digest, Rcpp
+htmltools (>= 0.3), jsonlite (>= 0.9.16), yaml
+Rcpp (>= 0.11.0), utils
+jsonlite, mime, curl (>= 0.9.1), openssl (>= 0.8), R6
+Matrix, magrittr, NMF, irlba
+NA
+stats, methods
+NA
+NA
+NA
+evaluate (>= 0.10), digest, highr, markdown, stringr (>= 0.6),
+yaml, methods, tools
+NA
+grid, grDevices, graphics, stats, utils
+grid, stats, utils, grDevices
+NA
+NA
+graphics, grid, splines, utils, parallel, MASS, lattice, nlme
+(>= 3.1-123), minqa (>= 1.1.15), nloptr (>= 1.0.4)
+NA
+NA
+graphics, matrixStats (>= 0.50.0), parallel, stats
+stringr
+NA
+NA
+graphics, utils
+foreign (>= 0.8), methods, grid, lattice, stats, utils,
+grDevices
+utils, mime (>= 0.3)
+methods
+methods, graphics, grid, stats, utils, lattice
+stats, methods, Matrix (>= 1.1-5)
+NA
+digest (>= 0.6.3)
+utils, stats
+methods, stats, graphics, Matrix
+tools
+Rcpp (>= 0.9.10)
+NA
+NA
+lazyeval (>= 0.2.0), MASS, grid, tidyr, readr, methods, utils,
+splines, latticeExtra, ggdendro, gridExtra
+NA
+colorspace, methods
+stats, methods
+NA
+graphics, stats, utils, lattice
+NA
+graphics, stats, stringr (>= 1.0.0), digest, grid, grDevices,
+gridBase, colorspace, RColorBrewer, foreach, doParallel,
+ggplot2, reshape2
+NA
+tibble
+NA
+tools, utils
+tools
+Matrix (>= 1.2.3), parallel, MASS, methods
+utils
+methods, tools, codetools, digest, stringr, xtable, grDevices
+NA
+NA
+Rcpp (>= 0.11.0)
+NA
+
+mnormt,parallel,stats,graphics,grDevices,methods,foreign,lattice,nlme
+methods, graphics, Matrix, MatrixModels
+NA
+NA
+methods, utils
+Matrix (>= 1.1-0), Rcpp (>= 0.11.0), stats, utils
+NA
+Rcpp (>= 0.12.0.5), tibble, hms, R6
+utils
+plyr (>= 1.8.1), stringr, Rcpp
+coda, MASS, mvtnorm, loo
+NA
+methods
+NA
+
+tools,
+utils,
+grDevices,
+knitr (>= 1.13),
+yaml (>= 2.1.5),
+htmltools (>= 0.2.4),
+caTools,
+evaluate (>= 0.8),
+base64enc,
+jsonlite,
+tibble
+stringr, digest
+stringr (>= 0.5), stringi, brew, digest, methods, Rcpp (>=
+0.11.0), R6, desc, commonmark, xml2, utils
+NA
+digest, PKI, RCurl, RJSONIO, packrat (>= 0.4.8-1), yaml (>=
+2.1.5), rstudioapi (>= 0.5)
+methods, stats4, inline, gridExtra (>= 2.0.0), Rcpp (>=
+0.12.0)
+NA
+curl, xml2 (>= 1.0.0), utils
+maptools, fields, methods
+RColorBrewer, dichromat, plyr, munsell (>= 0.2), labeling,
+methods, Rcpp
+utils, httpuv (>= 1.3.3), mime (>= 0.3), jsonlite (>= 0.9.16),
+xtable, digest, htmltools (>= 0.3.5), R6 (>= 2.0), sourcetools
+NA
+utils, stats, graphics, grDevices, lattice, grid
+methods
+graphics, stats, utils
+NA
+graphics, stats
+NA
+utils, grDevices, graphics
+graphics, methods, stats
+tools, utils, stats
+stringi (>= 0.4.1), magrittr
+graphics, Matrix, methods, splines, stats, utils
+utils
+methods, rlang, Rcpp (>= 0.12.3), utils
+tibble, dplyr (>= 0.4), stringi, lazyeval, magrittr, Rcpp
+NA
+NA
+stats, ggplot2 (>= 1.0.1), gridExtra
+NA
+NA
+stats, graphics
+NA
+Rcpp
+stats, utils
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Rcpp
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Rcpp, plogr
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Rcpp (>= 0.12.0), BH (>= 1.58.0-1), bindrcpp, plogr
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Rcpp, BH
+NA
+NA
+NA
+NA
+Rcpp
+NA
+Rcpp
+NA
+NA
+NA
+Matrix
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Rcpp (>= 0.10.5), RcppEigen
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Rcpp
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Rcpp
+NA
+NA
+NA
+NA
+NA
+NA
+Rcpp
+NA
+Rcpp, BH
+NA
+Rcpp
+NA
+NA
+NA
+NA
+NA
+NA
+Rcpp
+NA
+NA
+Rcpp (>= 0.12.0), RcppEigen, BH (>= 1.62), StanHeaders (>=
+2.15.0)
+NA
+NA
+NA
+Rcpp
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Rcpp
+Rcpp
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Rcpp (>= 0.11.4.6), BH
+NA
+NA
+NA
+data.table
+htmlwidgets, rstudioapi, miniUI, rsconnect (>= 0.4.3), servr
+(>= 0.3), shiny, testit (>= 0.5), tufte, webshot
+knitr, boot, survival, gam, glmnet, lfe, Lahman, MASS, sp,
+maps, maptools, multcomp, testthat, lme4, zoo, lmtest, plm,
+biglm, ggplot2, nnet, geepack, AUC, ergm, network,
+statnet.common, xergm, btergm, binGroup, Hmisc, bbmle, gamlss,
+rstan, rstanarm, brms, coda, gmm, Matrix, ks, purrr, orcutt,
+mgcv, lmodel2, poLCA, mclust, covr, lsmeans, betareg, robust,
+akima
+covr, testthat (>= 1.0.0), knitr, rmarkdown
+testthat
+testthat
+knitr, rmarkdown, dplyr, readr, ggplot2, broom, magrittr,
+scales, stringr, tidytext, hunspell, ggthemes, lubridate, grid,
+fmsb, wordcloud, gridExtra, fivethirtyeight, tidyverse
+ggplot2, testthat, covr
+dplyr, ggplot2, testthat
+NA
+httpuv, jpeg, knitr, png, testthat (>= 0.8.0), readr, xml2,
+rmarkdown
+formatR, testit, rgl (>= 0.95.1201), codetools, rmarkdown,
+htmlwidgets (>= 0.7), webshot, tikzDevice (>= 0.10), png, jpeg,
+XML, RCurl, DBI (>= 0.4-1), tibble
+testthat, ggplot2, covr
+dplyr
+NA
+testthat
+testthat, covr, dplyr (>= 0.4.3)
+covr, knitr, rmarkdown, rprojroot (>= 1.1), testthat
+covr, testthat
+shiny (>= 0.11), tufte, testthat, digest, tibble
+testthat, knitr, withr, rmarkdown
+testthat, knitr, png, stringi (>= 0.3.1), rmarkdown, covr
+testthat, XML, xml2
+NA
+stringi
+devtools, withr, covr
+knitr, rmarkdown
+NA
+httpuv, knitr, rmarkdown, shiny
+timeSeries,timeDate,tseries,its,chron,fts,tis
+coda, chron, DAAG, fts, ggplot2, mondate, scales,
+strucchange, timeDate, timeSeries, tis, tseries, xts
+NA
+testthat
+tkrplot
+NA
+testthat
+NA
+methods
+NA
+NA
+testthat
+testthat
+NA
+MASS, survival
+NA
+alr4, boot, coxme, leaps, lme4, lmtest, Matrix, MatrixModels,
+nlme, rgl (>= 0.93.960), sandwich, SparseM, survival, survey,
+nloptr
+MASS, rpart
+data.table, devtools, ggplot2, knitr, rmarkdown, magrittr,
+microbenchmark, testthat (>= 0.11.0), tibble
+scales, ggplot2
+NA
+MASS
+NA
+NA
+datasets, stats, utils, KernSmooth, MASS, kernlab, mvtnorm,
+vcd, dichromat, tcltk, shiny, shinyjs
+curl
+NA
+testthat
+testthat (>= 1.0.0), knitr, jsonlite, rmarkdown, magrittr,
+httpuv, webutils
+bit64, knitr, nanotime, chron, ggplot2 (>= 0.9.0), plyr,
+reshape, reshape2, testthat (>= 0.4), hexbin, fastmatch, nlme,
+xts, gdata, GenomicRanges, caret, curl, zoo, plm, rmarkdown,
+parallel
+NA
+blob, covr, hms, knitr, magrittr, rprojroot, rmarkdown,
+RSQLite (>= 1.1-2), testthat, xml2
+covr, testthat, whoami, withr
+curl (>= 0.9), crayon, testthat (>= 1.0.2), BiocInstaller,
+Rcpp (>= 0.10.0), MASS, rmarkdown, knitr, hunspell (>= 2.0),
+lintr (>= 0.2.1), bitops, roxygen2 (>= 5.0.0), evaluate,
+rversions, covr, gmailr (> 0.7.0)
+NA
+knitr, rmarkdown
+caret, mlbench, rpart
+testthat
+bit64, covr, dbplyr, dtplyr, DBI, ggplot2, hms, knitr, Lahman
+(>= 3.0-1), mgcv, microbenchmark, nycflights13, rmarkdown,
+RMySQL, RPostgreSQL, RSQLite, testthat, withr
+testthat, lattice, ggplot2
+MASS, faraway, Hmisc, DAAG, multcomp, vcd, car, alr3,
+corrgram, BradleyTerry2, cubature, Devore7, knitr
+NA
+randomForest
+NA
+codetools, shiny, testit, rmarkdown, knitr
+NA
+BradleyTerry2, MASS, Matrix, MCMCglmm, R2jags, bdsmatrix,
+coda, coxme, foreign, grid, haplo.stats, kinship2, lattice,
+magic, mets, nlme, pedigree, pedigreemm, regress, rms, survival
+RUnit
+rpart(>= 4.0-0), tree, testthat, knitr, cluster, scales
+covr, ggplot2movies, hexbin, Hmisc, lattice, mapproj, maps,
+maptools, mgcv, multcomp, nlme, testthat (>= 0.11.0), quantreg,
+knitr, rpart, rmarkdown, svglite
+MASS, mgcv, lubridate, testthat (>= 0.8.1), knitr (>= 1.6),
+rmarkdown
+getPass
+NA
+testthat, covr, magrittr
+NA
+KernSmooth
+lattice
+lattice
+ggplot2, lattice, knitr, testthat
+testthat, covr
+NA
+testthat, knitr, rmarkdown, covr
+knitr, testit
+chron, rms, mice, tables, knitr, ff, ffbase, plotly (>=
+4.5.6)
+testthat, lubridate
+testthat, XML, xtable, ztable, Hmisc, reshape, rmarkdown,
+pander, chron, lubridate
+markdown, testthat
+knitr (>= 1.8)
+NA
+httpuv, jpeg, knitr, png, testthat (>= 0.8.0), readr, xml2,
+rmarkdown
+igraphdata, stats4, rgl, tcltk, graph, ape, scales
+Rcpp (>= 0.11.0)
+NA
+RUnit
+httr, curl, plyr, testthat, knitr, rmarkdown, R.rsp, sp
+MASS
+formatR, testit, rgl (>= 0.95.1201), codetools, rmarkdown,
+htmlwidgets (>= 0.7), webshot, tikzDevice (>= 0.10), png, jpeg,
+XML, RCurl, DBI (>= 0.4-1), tibble
+NA
+KernSmooth, MASS, latticeExtra
+maps, mapproj, deldir, tripack, zoo, MASS, quantreg, mgcv
+knitr, rmarkdown (>= 0.2.65), testthat, covr
+NA
+knitr, boot, PKPDmodels, MEMSS, testthat (>= 0.8.1), ggplot2,
+mlmRev, optimx (>= 2013.8.6), gamm4, pbkrtest, HSAUR2, numDeriv
+NA
+lubridate, lattice, mosaic
+knitr, rmarkdown, rstan, rstanarm, testthat
+testthat, knitr, covr
+testthat, knitr
+NA
+mapproj (>= 1.2-0), mapdata (>= 2.2-4), sp, maptools
+rgeos (>= 0.1-8), spatstat (>= 1.18), PBSmapping, maps,
+RColorBrewer, raster, polyclip, spatstat.utils
+knitr, RCurl
+lattice, nlme, nnet, survival
+expm, MASS
+NA
+base64enc, ggplot2, knitr, microbenchmark, R.devices, R.rsp
+testthat, aws.s3, httr, covr
+codetools
+splines, parallel, survival, MASS
+NA
+NA
+NA
+stats, evd, fBasics, stabledist, VGAM
+lubridate, fastR, magrittr, NHANES, RCurl, sp, maptools, vcd,
+testthat, knitr, tools, parallel, mapproj, rgl, rmarkdown
+lattice, mosaic, reshape2, ggplot2, dplyr
+ggplot2, testthat
+NA
+mosaic
+Hmisc, MASS
+testthat (>= 0.8.1)
+RcppOctave (>= 0.11), fastICA, doMPI, bigmemory (>= 4.2),
+synchronicity, corpcor, xtable, devtools, knitr, bibtex, RUnit,
+mail, Biobase
+MASS
+dplyr
+testthat, digest, knitr, rmarkdown, jsonlite, jose
+testthat (>= 0.7), devtools, httr, knitr, rmarkdown
+methods
+NA
+covr, testthat, disposables (>= 1.0.3)
+devtools (>= 0.8), bibtex, RUnit, testthat, knitr,
+ReportingTools, hwriter, argparse
+NA
+Rcpp
+abind, testthat, tcltk, foreach, doParallel, itertools,
+iterators, covr
+testthat, covr
+GPArotation, lavaan, sem, lme4,Rcsdp, graph, Rgraphviz
+tripack, akima, MASS, survival, rgl, logspline, nor1mix,
+Formula, zoo
+knitr, microbenchmark, pryr, testthat, ggplot2, scales
+NA
+RUnit, inline, rbenchmark, highlight, pkgKitten (>= 0.1.2)
+inline, RUnit, pkgKitten
+Rcompression, XML
+curl, testthat, knitr, rmarkdown, stringi, covr
+NA
+testthat (>= 0.8.0), lattice
+NA
+tcltk
+NA
+knitr, rmarkdown (>= 0.2.65), testthat, covr
+
+shiny (>= 0.11),
+tufte,
+testthat,
+digest
+parallel, RUnit, knitr
+testthat (>= 0.8.0), knitr, devtools, rmarkdown, covr
+survival
+scrypt, knitr, testthat, rmarkdown (>= 1.1)
+RUnit, RcppEigen, BH (>= 1.62), parallel, KernSmooth, loo (>=
+1.0.0), shinystan (>= 2.2.1), bayesplot, rstantools,
+rstudioapi, Matrix, knitr (>= 1.15.1)
+testthat
+NA
+rgdal, rworldxtra, RColorBrewer, classInt
+testthat (>= 0.8), covr, hms
+datasets, Cairo (>= 1.5-5), testthat, knitr (>= 1.6),
+markdown, rmarkdown, ggplot2, magrittr
+testthat
+RColorBrewer, rgdal (>= 0.8-7), rgeos (>= 0.3-13), gstat,
+maptools, deldir
+fields, Matrix, R.rsp, truncdist
+NA
+MASS
+Matrix, methods
+RcppEigen, BH
+MASS, Matrix, SuppDists, methods, stats4
+NA
+NA
+testthat, knitr, htmltools, htmlwidgets, rmarkdown, covr
+NA
+NA
+covr, dplyr, knitr (>= 1.5.32), microbenchmark, nycflights13,
+testthat, rmarkdown, withr
+knitr, testthat, covr, gapminder, rmarkdown
+codetools, methods, xml2
+methods, XML
+hexbin (>= 1.27.0), scales, MASS, knitr, dichromat,
+colorspace, rasterVis, httr, mapproj, vdiffr, svglite (>=
+1.2.0), testthat, covr, rmarkdown
+hexbin (>= 1.27.0), ggplot2 (>= 1.0.1), testthat, covr
+markdown
+testthat
+bitops, RCurl
+testthat, curl, covr, knitr, rmarkdown, magrittr, httr
+knitr, lsmeans, spdep, splm, sphet, plm, zoo, survival
+testthat
+NA
+NA
+NA
+NA
+NA
+NA
+rmarkdown (>= 0.3.3), shiny (>= 0.10.2.1)
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+png
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+zoo
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+compiler, RUnit
+NA
+NA
+NA
+NA
+NA
+compiler, doMC, RUnit, doParallel
+NA
+NA
+NA
+NA
+NA
+NA
+sp
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+knitr
+shiny (>= 0.12)
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+chron
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+chron, timeDate, zoo, xts, its, tis, timeSeries, fts, tseries
+NA
+NA
+NA
+gpclib, RArcInfo
+NA
+NA
+MatrixModels, graph, SparseM, sfsmisc
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+manipulate
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+BiocInstaller
+snow, nws, Rmpi
+NA
+NA
+NA
+gmp
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+BiocInstaller
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+GPL-2
+CC0
+GPL-3
+MIT + file LICENSE
+MIT + file LICENSE
+GPL-3
+MIT + file LICENSE
+MIT + file LICENSE
+GPL-3
+CC0
+GPL-3
+MIT + file LICENSE
+GPL
+GPL-3
+CC0
+CC0
+MIT + file LICENSE
+GPL-3 | file LICENSE
+GPL-3
+MIT + file LICENSE
+GPL-3
+GPL-3
+GPL-3
+BSD_3_clause + file LICENCE
+GPL-3
+MIT + file LICENSE
+MIT + file LICENSE
+GPL-3 | file LICENSE
+GPL-3
+GPL-2
+GPL (>= 2)
+GPL-2 | GPL-3
+LGPL (>= 2)
+MIT + file LICENSE
+GPL (>= 2)
+GPL (>= 3)
+GPL-3
+CC0
+Part of R 3.3.3
+GPL-2 | GPL-3
+BSL-1.0
+MIT + file LICENSE
+MIT + file LICENSE
+GPL (>= 2)
+Unlimited
+GPL-2
+GPL (>= 2)
+GPL-3
+BSD_3_clause + file LICENSE
+GPL-2
+GPL-2 | GPL-3
+GPL (>= 2)
+GPL (>= 2)
+GPL
+BSD_3_clause + file LICENSE
+BSD_2_clause + file LICENSE
+Part of R 3.3.3
+MIT + file LICENSE
+MIT + file LICENSE
+GPL-3 | file LICENSE
+Part of R 3.3.3
+LGPL (>= 2)
+MIT + file LICENSE
+GPL (>= 2)
+GPL-2
+GPL (>= 2)
+GPL-2
+GPL-2
+MIT + file LICENSE
+MIT + file LICENSE
+GPL (>= 2)
+GPL (>= 2)
+Apache License (== 2.0)
+GPL (>= 2)
+GPL
+GPL-2 | GPL-3
+GPL (>= 2)
+GPL-2
+GPL-2 | GPL-3
+GPL-2 | file LICENSE
+GPL-2 | file LICENSE
+GPL-2
+GPLv3
+MIT + file LICENSE
+Part of R 3.3.3
+Part of R 3.3.3
+Part of R 3.3.3
+GPL
+GPL (>= 2)
+GPL-2
+GPL-2
+MIT + file LICENSE
+GPL
+GPL (>= 2)
+GPL-3
+GPL (>= 3)
+GPL (>= 2)
+MIT + file LICENSE
+GPL-3 | file LICENSE
+MIT + file LICENSE
+GPL (>= 2)
+LGPL
+GPL-3
+Apache License (== 2.0)
+MIT + file LICENSE
+Unlimited
+GPL
+MIT + file LICENSE | Unlimited
+GPL (>= 2)
+GPL (>= 2)
+GPL-3
+GPL (>= 2)
+GPL (>= 2)
+GPL-2
+GPL-2
+GPL (>= 3)
+GPL-2
+MIT + file LICENSE
+GPL-2
+GPL-2
+GPL (>= 2)
+GPL-2
+GPL-2 | GPL-3
+GPL (>= 2) | file LICENCE
+GPL (>= 2)
+Artistic-2.0
+MIT + file LICENSE
+Part of R 3.3.3
+GPL (>= 2)
+GPL
+GPL-2
+GPL-2 | GPL-3
+GPL (>= 2)
+GPL (>= 2)
+GPL (>= 2)
+MIT + file LICENSE
+GPL-2
+GPL (>= 2)
+GPL (>= 2) | file LICENCE
+LGPL-3
+GPL (>= 2)
+GPL-2 | GPL-3
+CC0
+MIT + file LICENSE
+GPL-2
+Part of R 3.3.3
+GPL (>= 2)
+MIT + file LICENSE
+GPL (>= 2)
+GPL-2 | GPL-3 | file LICENSE
+MIT + file LICENSE
+MIT + file LICENSE
+GPL-2
+GPL (>= 2)
+GPL (>= 2)
+MIT + file LICENSE
+Apache License 2.0
+GPL (>= 2)
+GPL (>= 2) | file LICENSE
+BSD
+GPL (>= 2) | file LICENSE
+GPL-2
+MIT + file LICENSE
+GPL (>= 3)
+GPL (== 2)
+BSD_3_clause + file LICENSE
+GPL-3
+GPL-3
+GPL-3
+GPL (>= 2)
+GPL-2 | GPL-3
+GPL-2
+GPL (>= 3)
+MIT + file LICENSE
+MIT + file LICENSE
+GPL (>= 2)
+MIT + file LICENSE
+GPL-3 | file LICENSE
+MIT + file LICENSE
+GPL (>= 2)
+LGPL-2
+GPL (>= 2)
+GPL-2 | GPL-3
+Part of R 3.3.3
+BSD_3_clause + file LICENSE
+Part of R 3.3.3
+Part of R 3.3.3
+file LICENSE
+GPL-2 | file LICENSE
+LGPL (>= 2)
+Part of R 3.3.3
+MIT + file LICENSE
+MIT + file LICENSE
+Part of R 3.3.3
+Part of R 3.3.3
+MIT + file LICENSE
+MIT + file LICENSE
+GPL-3
+GPL (>= 2)
+BSD_2_clause + file LICENSE
+GPL (>= 2)
+GPL (>= 2)
+BSD_3_clause + file LICENSE
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+yes
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+no
+no
+no
+no
+no
+no
+no
+no
+no
+no
+no
+no
+no
+no
+no
+no
+no
+yes
+yes
+no
+no
+no
+no
+no
+NA
+no
+yes
+no
+no
+no
+yes
+yes
+no
+yes
+no
+no
+no
+no
+NA
+yes
+no
+no
+yes
+yes
+no
+NA
+no
+yes
+yes
+yes
+yes
+yes
+no
+no
+yes
+yes
+NA
+no
+yes
+yes
+NA
+no
+no
+no
+NA
+yes
+no
+no
+yes
+no
+no
+yes
+no
+yes
+no
+no
+yes
+no
+no
+no
+no
+yes
+NA
+yes
+yes
+yes
+yes
+no
+no
+no
+yes
+yes
+no
+yes
+no
+no
+yes
+no
+yes
+no
+yes
+no
+yes
+no
+yes
+yes
+no
+no
+yes
+no
+yes
+NA
+yes
+NA
+no
+no
+yes
+no
+no
+yes
+yes
+yes
+yes
+yes
+no
+yes
+no
+yes
+yes
+yes
+yes
+yes
+NA
+no
+no
+no
+yes
+no
+yes
+yes
+yes
+yes
+no
+yes
+no
+yes
+no
+no
+no
+yes
+no
+yes
+no
+no
+yes
+no
+no
+yes
+yes
+yes
+yes
+no
+yes
+NA
+yes
+yes
+yes
+NA
+no
+yes
+yes
+no
+yes
+no
+no
+no
+yes
+no
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+NA
+yes
+no
+yes
+yes
+yes
+yes
+yes
+yes
+no
+no
+no
+no
+yes
+yes
+no
+yes
+3.3.2
+3.3.0
+3.3.2
+3.3.2
+3.3.0
+3.3.2
+3.3.2
+3.3.2
+3.3.2
+3.3.0
+3.3.0
+3.3.0
+3.3.2
+3.3.0
+3.3.2
+3.3.0
+3.3.0
+3.3.2
+3.3.2
+3.3.0
+3.3.2
+3.3.2
+3.3.0
+3.3.2
+3.3.0
+3.3.2
+3.3.0
+3.3.2
+3.3.0
+3.3.2
+3.3.0
+3.3.2
+3.3.0
+3.3.0
+3.3.0
+3.3.2
+3.3.2
+3.3.2
+3.3.3
+3.3.0
+3.3.2
+3.3.2
+3.3.2
+3.3.0
+3.3.2
+3.3.0
+3.3.2
+3.3.0
+3.3.0
+3.3.2
+3.3.3
+3.3.2
+3.3.2
+3.3.3
+3.3.2
+3.3.2
+3.3.3
+3.3.0
+3.3.2
+3.3.2
+3.3.3
+3.3.3
+3.3.2
+3.3.2
+3.3.0
+3.3.2
+3.3.0
+3.3.0
+3.3.2
+3.3.0
+3.3.0
+3.3.2
+3.3.0
+3.3.2
+3.3.2
+3.3.0
+3.3.2
+3.3.2
+3.3.0
+3.3.2
+3.3.0
+3.3.2
+3.3.1
+3.3.2
+3.3.3
+3.3.3
+3.3.3
+3.3.0
+3.3.0
+3.3.0
+3.3.0
+3.3.0
+3.3.0
+3.3.2
+3.3.2
+3.3.2
+3.3.2
+3.3.2
+3.3.0
+3.3.0
+3.3.0
+3.3.0
+3.3.2
+3.3.0
+3.3.2
+3.3.3
+3.3.2
+3.3.0
+3.3.2
+3.3.0
+3.3.0
+3.3.1
+3.3.2
+3.3.0
+3.3.0
+3.3.2
+3.3.0
+3.3.0
+3.3.0
+3.3.2
+3.3.2
+3.3.2
+3.3.2
+3.3.2
+3.3.0
+3.3.2
+3.3.2
+3.3.3
+3.3.3
+3.3.0
+3.3.0
+3.3.0
+3.3.0
+3.3.0
+3.3.0
+3.3.0
+3.3.2
+3.3.0
+3.3.3
+3.3.0
+3.3.0
+3.3.3
+3.3.2
+3.3.2
+3.3.0
+3.3.3
+3.3.2
+3.3.2
+3.3.0
+3.3.0
+3.3.0
+3.3.0
+3.3.0
+3.3.3
+3.3.2
+3.3.2
+3.3.0
+3.3.2
+3.3.2
+3.3.0
+3.3.2
+3.3.0
+3.3.0
+3.3.1
+3.3.0
+3.3.0
+3.3.2
+3.3.1
+3.3.0
+3.3.2
+3.3.2
+3.3.2
+3.3.2
+3.3.0
+3.3.0
+3.3.0
+3.3.2
+3.3.2
+3.3.2
+3.3.2
+3.3.0
+3.3.2
+3.3.3
+3.3.3
+3.3.2
+3.3.3
+3.3.3
+3.3.2
+3.3.2
+3.3.2
+3.3.3
+3.3.2
+3.3.2
+3.3.3
+3.3.3
+3.3.2
+3.3.2
+3.3.0
+3.3.0
+3.3.3
+3.3.2
+3.3.0
+3.3.2
