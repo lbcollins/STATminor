@@ -1,0 +1,2 @@
+# STATminor
+Statistics Minor Planning
